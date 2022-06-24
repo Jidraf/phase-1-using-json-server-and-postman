@@ -1,0 +1,41 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title":"books that i have read",
+            "author":"with their authors"
+        },
+        {
+            "id": 2,
+            "title":"Lolita",
+            "author":"Vladimir Nabokov"
+        },
+        {
+            "id": 3,
+            "title":"The Great Gatsby",
+            "author":"F.Scott Fitzgerald"
+        },
+
+        {
+            "id": 4,
+            "title":"Ulysses",
+            "author":"James Joyce"
+        },
+        {
+            "id": 5,
+            "title":"Dubliners",
+            "author":"James Joyce"
+        }
+
+    ],
+    "comments": [
+      {
+          "id":1,
+          "body":"some comment",
+          "postId":1
+      }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
