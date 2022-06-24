@@ -1,41 +1,22 @@
-{
-    "posts": [
-        {
-            "id": 1,
-            "title":"books that i have read",
-            "author":"with their authors"
-        },
-        {
-            "id": 2,
-            "title":"Lolita",
-            "author":"Vladimir Nabokov"
-        },
-        {
-            "id": 3,
-            "title":"The Great Gatsby",
-            "author":"F.Scott Fitzgerald"
-        },
 
-        {
-            "id": 4,
-            "title":"Ulysses",
-            "author":"James Joyce"
-        },
-        {
-            "id": 5,
-            "title":"Dubliners",
-            "author":"James Joyce"
-        }
 
-    ],
-    "comments": [
+{ 
+    "articles": [
       {
-          "id":1,
-          "body":"some comment",
-          "postId":1
+        "id": 1,
+        "title": "Example Article",
+        "content": "This is an example."
+      },
+      {
+        "id": 2,
+        "title": "Second Article",
+        "content": "This is also an example."
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
       }
-    ],
-    "profile": {
-        "name": "typicode"
-    }
-}
+    ]
+  }
